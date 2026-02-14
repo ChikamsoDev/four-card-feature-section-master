@@ -29,9 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/REPLACE_ME
-- Live Site URL: https://REPLACE_ME
-
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-four-card-page-design-built-using-grid-flexbox-and-CgZwrrfK98
+- Live Site URL: https://chikamsodev.github.io/four-card-feature-section-master/
 ## My process
 
 - Built the layout with semantic HTML first (header + cards section)
